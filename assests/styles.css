@@ -1,0 +1,47 @@
+
+.bg-green {
+    background-color: #01504A;
+}
+
+.text-green {
+    color: #01504A;
+}
+
+.modal-dialog {
+    margin-top: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.btn1 {
+    margin-left: 80px;
+}
+
+.footer {
+    margin-top: 300px;
+}
+
+.RU {
+    margin-right: 1000px;
+    color: aliceblue;
+}
+
+.IN {
+    margin-left: 900px;
+    color: aliceblue;
+}
+.modal-dialog2 {
+    margin-top: 100px;
+    margin-left: 100px;
+    align-items: flex-start;
+    display: flex;
+}
+.btn2 {
+    margin-left: 320px;
+}
+.img {
+    float: right;
+    margin-top: 300px;
+    margin-right: 400px;
+}
